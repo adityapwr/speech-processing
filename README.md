@@ -34,7 +34,7 @@ Click on open in colab: musicdemixing_speechprocessing.ipynb
 The report provides an overview of the project, including the problem statement, methodology, and results. It also includes visualizations of the separated sound sources using both techniques.
 
 ### Explanation Video
-The explanation video provides a detailed walkthrough of the project, including the problem statement, methodology, and results. It also includes visualizations of the separated sound sources using both techniques.
+The explanation video provides a detailed walkthrough of the project, including the problem statement, methodology, and results. It also includes visualizations of the separated sound sources using both techniques. (https://youtu.be/_Go6cv-EJQU)
 
 ### Authors
 Aditya Pawar
